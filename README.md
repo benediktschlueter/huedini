@@ -1,4 +1,4 @@
-huedini-p
-=========
+Welcome to Huedini
+==================
 
-metadata for huedini
+You can post bugs here, thx for that!
